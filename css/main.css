@@ -1702,7 +1702,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #55ff24;
+  background: #ff3dff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2551,4 +2551,16 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+.header {
+  background-image: url("http://oqptayv6i.bkt.clouddn.com/image/config/%E8%8C%B6-%E8%83%8C%E6%99%AF.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+.posts-expand .post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(200,210,220,0.75);
+  -moz-box-shadow: 0 0 5px rgba(200,210,220,0.75);
 }
